@@ -1,6 +1,6 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvTKb2W36_tnPVl1QVdbeyqPX8ai02ldIeO_IJMy8AXE7sz7U9Z3PJEKRIBRnRuFV82rIuatjZq7HwXsO6Q2mWdZgbRTRnSFcJ1ps3uiSmyhMjVKan85pdaZNcpHrIJSH6daxvbHngZMLZGxaRYk7-JLRe497EEaKQ13l7aSYdTe_JyDgzyLhR0ugv/s1500/GithubBanner.jpg)](https://orientaltechs.com)
 
-<h1 align="center">👋 Hi, I'm Attaullah Hazarvi</h1>
+
 <h3 align="center">I’m interested in native and hybrid mobile apps development.</h3>
 <img align="right" alt="Coding" height=250 src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
